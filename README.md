@@ -1,0 +1,2 @@
+# Space Traffic Density Prediction
+ **Space Traffic Density Prediction** is a project focused on analyzing and forecasting the movement of objects in Earth's orbit, including satellites, spacecraft, and space debris. It aims to predict collisions, optimize orbital paths, and enhance space safety. Using data analysis and machine learning, the system processes satellite trajectories, identifies patterns, and provides insights for efficient space traffic management.
