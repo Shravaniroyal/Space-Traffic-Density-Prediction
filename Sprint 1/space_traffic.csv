@@ -1,0 +1,1001 @@
+Timestamp,Location,Object_Type,Traffic_Density,Peak_Time
+2024-10-21 21:00:00,Lagrange Point L2,Space Station,17,15:00
+2024-10-11 05:00:00,Orbit LEO,Satellite,21,15:00
+2024-10-29 13:00:00,Orbit LEO,Space Station,88,6:00
+2024-10-24 08:00:00,Mars Transfer Orbit,Scientific Probe,65,8:00
+2024-10-23 17:00:00,Lagrange Point L1,Space Station,9,6:00
+2024-10-06 22:00:00,Orbit LEO,Space Debris,13,3:00
+2024-10-21 02:00:00,Lagrange Point L1,Manned Spacecraft,83,14:00
+2024-10-09 12:00:00,Lagrange Point L2,Manned Spacecraft,90,20:00
+2024-10-05 10:00:00,Lagrange Point L1,Manned Spacecraft,93,11:00
+2024-10-04 04:00:00,Lagrange Point L2,Manned Spacecraft,31,19:00
+2024-10-12 22:00:00,Mars Transfer Orbit,Space Station,79,7:00
+2024-10-16 06:00:00,Mars Transfer Orbit,Asteroid Mining Ship,89,16:00
+2024-10-14 02:00:00,Lagrange Point L2,Space Debris,83,5:00
+2024-10-07 13:00:00,Lagrange Point L2,Scientific Probe,17,3:00
+2024-10-25 18:00:00,Orbit GEO,Space Station,25,1:00
+2024-10-14 14:00:00,Lagrange Point L2,Scientific Probe,75,7:00
+2024-10-14 04:00:00,Orbit MEO,Manned Spacecraft,30,16:00
+2024-10-15 23:00:00,Orbit MEO,Space Debris,97,8:00
+2024-10-17 08:00:00,Lagrange Point L1,Satellite,29,3:00
+2024-10-25 11:00:00,Mars Transfer Orbit,Scientific Probe,76,9:00
+2024-10-02 15:00:00,Orbit LEO,Space Debris,13,9:00
+2024-10-12 19:00:00,Orbit LEO,Satellite,90,12:00
+2024-10-17 01:00:00,Lagrange Point L1,Asteroid Mining Ship,29,11:00
+2024-10-23 02:00:00,Lagrange Point L1,Scientific Probe,45,7:00
+2024-10-11 19:00:00,Orbit LEO,Scientific Probe,51,6:00
+2024-10-09 08:00:00,Orbit MEO,Asteroid Mining Ship,47,15:00
+2024-10-22 07:00:00,Lagrange Point L1,Space Debris,79,23:00
+2024-10-24 07:00:00,Lagrange Point L2,Asteroid Mining Ship,39,10:00
+2024-10-09 00:00:00,Lagrange Point L2,Scientific Probe,21,14:00
+2024-10-21 09:00:00,Mars Transfer Orbit,Asteroid Mining Ship,10,5:00
+2024-10-06 11:00:00,Lagrange Point L2,Satellite,8,6:00
+2024-10-08 06:00:00,Lagrange Point L2,Space Station,21,23:00
+2024-10-29 19:00:00,Orbit MEO,Satellite,82,8:00
+2024-10-15 00:00:00,Lagrange Point L2,Asteroid Mining Ship,46,13:00
+2024-10-21 00:00:00,Mars Transfer Orbit,Scientific Probe,83,9:00
+2024-10-12 22:00:00,Mars Transfer Orbit,Scientific Probe,31,1:00
+2024-10-29 09:00:00,Mars Transfer Orbit,Asteroid Mining Ship,54,17:00
+2024-10-05 20:00:00,Lagrange Point L1,Satellite,40,21:00
+2024-10-30 08:00:00,Orbit GEO,Manned Spacecraft,5,13:00
+2024-10-29 11:00:00,Orbit LEO,Space Station,84,22:00
+2024-10-18 02:00:00,Lagrange Point L2,Space Station,88,5:00
+2024-10-07 22:00:00,Lagrange Point L1,Asteroid Mining Ship,37,21:00
+2024-10-26 01:00:00,Lagrange Point L2,Manned Spacecraft,54,14:00
+2024-10-04 05:00:00,Orbit LEO,Manned Spacecraft,63,6:00
+2024-10-30 18:00:00,Orbit MEO,Asteroid Mining Ship,68,17:00
+2024-10-06 17:00:00,Orbit MEO,Manned Spacecraft,84,18:00
+2024-10-25 10:00:00,Mars Transfer Orbit,Space Station,3,11:00
+2024-10-12 16:00:00,Lagrange Point L2,Manned Spacecraft,99,5:00
+2024-10-24 08:00:00,Orbit LEO,Space Station,51,3:00
+2024-10-25 08:00:00,Lagrange Point L1,Space Station,25,19:00
+2024-10-08 11:00:00,Lagrange Point L1,Manned Spacecraft,16,7:00
+2024-10-13 23:00:00,Orbit LEO,Scientific Probe,41,4:00
+2024-10-27 13:00:00,Mars Transfer Orbit,Scientific Probe,20,10:00
+2024-10-25 08:00:00,Lagrange Point L1,Space Station,48,0:00
+2024-10-07 07:00:00,Lagrange Point L1,Space Debris,86,23:00
+2024-10-20 07:00:00,Orbit LEO,Scientific Probe,21,11:00
+2024-10-11 12:00:00,Mars Transfer Orbit,Asteroid Mining Ship,10,0:00
+2024-10-03 17:00:00,Lagrange Point L1,Asteroid Mining Ship,85,9:00
+2024-10-13 16:00:00,Orbit GEO,Asteroid Mining Ship,100,17:00
+2024-10-23 04:00:00,Orbit GEO,Scientific Probe,85,4:00
+2024-10-14 11:00:00,Orbit LEO,Manned Spacecraft,52,5:00
+2024-10-01 16:00:00,Orbit MEO,Manned Spacecraft,72,12:00
+2024-10-14 17:00:00,Orbit GEO,Space Station,30,12:00
+2024-10-02 15:00:00,Orbit MEO,Satellite,17,23:00
+2024-10-05 11:00:00,Orbit LEO,Space Debris,62,9:00
+2024-10-10 16:00:00,Orbit MEO,Manned Spacecraft,42,8:00
+2024-10-14 06:00:00,Orbit MEO,Manned Spacecraft,39,6:00
+2024-10-15 18:00:00,Lagrange Point L2,Satellite,86,3:00
+2024-10-13 19:00:00,Mars Transfer Orbit,Asteroid Mining Ship,45,18:00
+2024-10-14 13:00:00,Lagrange Point L1,Space Station,43,12:00
+2024-10-18 18:00:00,Orbit MEO,Asteroid Mining Ship,55,14:00
+2024-10-15 06:00:00,Lagrange Point L1,Satellite,7,0:00
+2024-10-10 07:00:00,Orbit MEO,Manned Spacecraft,17,13:00
+2024-10-27 16:00:00,Orbit MEO,Scientific Probe,88,16:00
+2024-10-05 14:00:00,Orbit MEO,Asteroid Mining Ship,44,9:00
+2024-10-25 10:00:00,Orbit LEO,Space Debris,9,8:00
+2024-10-19 12:00:00,Orbit MEO,Manned Spacecraft,40,3:00
+2024-10-03 01:00:00,Orbit GEO,Space Station,47,20:00
+2024-10-11 10:00:00,Orbit MEO,Space Station,100,1:00
+2024-10-12 06:00:00,Orbit LEO,Satellite,2,10:00
+2024-10-11 03:00:00,Orbit LEO,Satellite,38,20:00
+2024-10-19 03:00:00,Orbit GEO,Space Debris,68,15:00
+2024-10-08 23:00:00,Orbit MEO,Asteroid Mining Ship,7,5:00
+2024-10-20 07:00:00,Mars Transfer Orbit,Space Debris,28,23:00
+2024-10-18 16:00:00,Mars Transfer Orbit,Space Debris,12,11:00
+2024-10-24 03:00:00,Lagrange Point L1,Space Debris,80,2:00
+2024-10-03 21:00:00,Orbit LEO,Asteroid Mining Ship,5,1:00
+2024-10-06 07:00:00,Orbit MEO,Space Station,22,5:00
+2024-10-02 23:00:00,Mars Transfer Orbit,Scientific Probe,47,21:00
+2024-10-03 09:00:00,Lagrange Point L1,Space Debris,5,5:00
+2024-10-26 05:00:00,Orbit LEO,Asteroid Mining Ship,7,6:00
+2024-10-06 13:00:00,Mars Transfer Orbit,Manned Spacecraft,47,21:00
+2024-10-19 22:00:00,Lagrange Point L2,Asteroid Mining Ship,100,8:00
+2024-10-20 16:00:00,Orbit LEO,Space Station,31,11:00
+2024-10-15 12:00:00,Orbit GEO,Space Station,97,18:00
+2024-10-05 03:00:00,Orbit MEO,Scientific Probe,41,2:00
+2024-10-03 19:00:00,Lagrange Point L2,Scientific Probe,10,6:00
+2024-10-21 23:00:00,Orbit LEO,Satellite,49,6:00
+2024-10-10 07:00:00,Orbit LEO,Scientific Probe,54,16:00
+2024-10-11 03:00:00,Orbit LEO,Space Debris,2,20:00
+2024-10-28 01:00:00,Lagrange Point L1,Manned Spacecraft,34,6:00
+2024-10-27 22:00:00,Orbit LEO,Satellite,64,17:00
+2024-10-28 19:00:00,Lagrange Point L1,Satellite,70,17:00
+2024-10-03 13:00:00,Orbit LEO,Satellite,35,4:00
+2024-10-02 12:00:00,Lagrange Point L2,Space Station,99,20:00
+2024-10-20 03:00:00,Orbit GEO,Asteroid Mining Ship,56,3:00
+2024-10-23 13:00:00,Lagrange Point L1,Scientific Probe,63,2:00
+2024-10-03 16:00:00,Mars Transfer Orbit,Manned Spacecraft,95,14:00
+2024-10-14 18:00:00,Lagrange Point L1,Scientific Probe,90,7:00
+2024-10-23 17:00:00,Lagrange Point L2,Space Station,55,22:00
+2024-10-25 02:00:00,Lagrange Point L2,Asteroid Mining Ship,8,2:00
+2024-10-29 07:00:00,Mars Transfer Orbit,Manned Spacecraft,91,5:00
+2024-10-19 04:00:00,Mars Transfer Orbit,Asteroid Mining Ship,20,9:00
+2024-10-01 13:00:00,Orbit GEO,Satellite,97,9:00
+2024-10-07 10:00:00,Orbit LEO,Satellite,55,7:00
+2024-10-28 13:00:00,Mars Transfer Orbit,Satellite,28,23:00
+2024-10-05 07:00:00,Lagrange Point L2,Space Station,93,23:00
+2024-10-30 10:00:00,Orbit MEO,Asteroid Mining Ship,22,23:00
+2024-10-09 15:00:00,Mars Transfer Orbit,Asteroid Mining Ship,46,0:00
+2024-10-31 00:00:00,Lagrange Point L2,Space Station,33,22:00
+2024-10-26 16:00:00,Lagrange Point L1,Space Debris,35,23:00
+2024-10-24 12:00:00,Lagrange Point L2,Manned Spacecraft,20,4:00
+2024-10-11 23:00:00,Orbit GEO,Scientific Probe,70,15:00
+2024-10-08 06:00:00,Orbit GEO,Space Station,49,5:00
+2024-10-06 19:00:00,Mars Transfer Orbit,Satellite,24,6:00
+2024-10-02 15:00:00,Lagrange Point L1,Scientific Probe,98,21:00
+2024-10-06 21:00:00,Orbit GEO,Space Debris,60,0:00
+2024-10-19 02:00:00,Orbit LEO,Asteroid Mining Ship,87,23:00
+2024-10-18 02:00:00,Mars Transfer Orbit,Asteroid Mining Ship,21,8:00
+2024-10-22 13:00:00,Lagrange Point L2,Space Debris,22,9:00
+2024-10-21 00:00:00,Orbit MEO,Space Debris,29,13:00
+2024-10-06 16:00:00,Orbit LEO,Space Station,72,6:00
+2024-10-02 19:00:00,Lagrange Point L2,Scientific Probe,79,13:00
+2024-10-19 16:00:00,Orbit LEO,Scientific Probe,84,7:00
+2024-10-01 04:00:00,Orbit LEO,Satellite,66,21:00
+2024-10-16 01:00:00,Orbit LEO,Scientific Probe,25,10:00
+2024-10-02 02:00:00,Orbit LEO,Manned Spacecraft,95,12:00
+2024-10-29 17:00:00,Orbit GEO,Asteroid Mining Ship,41,13:00
+2024-10-16 15:00:00,Orbit MEO,Asteroid Mining Ship,100,19:00
+2024-10-14 22:00:00,Orbit LEO,Space Station,67,21:00
+2024-10-11 23:00:00,Orbit GEO,Scientific Probe,67,23:00
+2024-10-22 12:00:00,Lagrange Point L2,Satellite,38,14:00
+2024-10-10 00:00:00,Orbit MEO,Asteroid Mining Ship,100,22:00
+2024-10-23 19:00:00,Orbit MEO,Asteroid Mining Ship,93,4:00
+2024-10-07 04:00:00,Orbit MEO,Space Debris,1,1:00
+2024-10-19 06:00:00,Mars Transfer Orbit,Asteroid Mining Ship,35,11:00
+2024-10-07 19:00:00,Mars Transfer Orbit,Satellite,4,13:00
+2024-10-11 09:00:00,Lagrange Point L2,Scientific Probe,94,6:00
+2024-10-04 07:00:00,Lagrange Point L1,Satellite,21,22:00
+2024-10-11 05:00:00,Orbit LEO,Space Debris,58,9:00
+2024-10-24 18:00:00,Orbit LEO,Satellite,98,21:00
+2024-10-13 22:00:00,Lagrange Point L2,Scientific Probe,83,13:00
+2024-10-27 19:00:00,Orbit MEO,Space Station,34,6:00
+2024-10-15 16:00:00,Lagrange Point L2,Asteroid Mining Ship,41,4:00
+2024-10-25 11:00:00,Orbit LEO,Space Debris,13,20:00
+2024-10-20 22:00:00,Orbit LEO,Manned Spacecraft,29,16:00
+2024-10-05 02:00:00,Orbit LEO,Space Station,100,11:00
+2024-10-14 01:00:00,Lagrange Point L2,Scientific Probe,9,1:00
+2024-10-27 18:00:00,Orbit MEO,Satellite,76,2:00
+2024-10-25 23:00:00,Lagrange Point L2,Asteroid Mining Ship,25,15:00
+2024-10-09 13:00:00,Orbit GEO,Scientific Probe,37,9:00
+2024-10-27 12:00:00,Orbit LEO,Asteroid Mining Ship,58,8:00
+2024-10-06 14:00:00,Lagrange Point L1,Space Debris,56,17:00
+2024-10-21 16:00:00,Orbit LEO,Space Station,22,4:00
+2024-10-03 07:00:00,Mars Transfer Orbit,Scientific Probe,84,8:00
+2024-10-29 10:00:00,Mars Transfer Orbit,Manned Spacecraft,20,8:00
+2024-10-01 12:00:00,Orbit MEO,Manned Spacecraft,63,14:00
+2024-10-19 20:00:00,Orbit GEO,Satellite,43,3:00
+2024-10-03 19:00:00,Orbit MEO,Satellite,26,22:00
+2024-10-26 02:00:00,Lagrange Point L1,Asteroid Mining Ship,56,22:00
+2024-10-14 00:00:00,Lagrange Point L2,Manned Spacecraft,100,20:00
+2024-10-03 11:00:00,Orbit LEO,Space Debris,82,14:00
+2024-10-30 18:00:00,Orbit MEO,Manned Spacecraft,57,7:00
+2024-10-08 20:00:00,Orbit GEO,Asteroid Mining Ship,54,10:00
+2024-10-05 14:00:00,Orbit GEO,Asteroid Mining Ship,42,1:00
+2024-10-16 03:00:00,Lagrange Point L2,Space Debris,42,5:00
+2024-10-02 05:00:00,Lagrange Point L1,Satellite,92,0:00
+2024-10-01 04:00:00,Lagrange Point L2,Space Debris,57,18:00
+2024-10-11 21:00:00,Mars Transfer Orbit,Asteroid Mining Ship,6,8:00
+2024-10-17 19:00:00,Orbit GEO,Space Station,20,5:00
+2024-10-14 07:00:00,Lagrange Point L2,Manned Spacecraft,10,9:00
+2024-10-06 21:00:00,Orbit LEO,Satellite,1,7:00
+2024-10-29 01:00:00,Orbit MEO,Manned Spacecraft,7,5:00
+2024-10-19 22:00:00,Lagrange Point L1,Scientific Probe,63,18:00
+2024-10-02 08:00:00,Mars Transfer Orbit,Satellite,30,1:00
+2024-10-27 16:00:00,Orbit MEO,Scientific Probe,55,20:00
+2024-10-07 05:00:00,Orbit MEO,Satellite,53,11:00
+2024-10-05 20:00:00,Orbit GEO,Space Debris,98,23:00
+2024-10-22 07:00:00,Mars Transfer Orbit,Scientific Probe,53,12:00
+2024-10-18 16:00:00,Orbit LEO,Scientific Probe,44,5:00
+2024-10-02 15:00:00,Orbit LEO,Space Debris,38,16:00
+2024-10-30 02:00:00,Mars Transfer Orbit,Scientific Probe,85,2:00
+2024-10-27 06:00:00,Mars Transfer Orbit,Manned Spacecraft,83,22:00
+2024-10-19 19:00:00,Orbit MEO,Space Debris,19,18:00
+2024-10-19 00:00:00,Lagrange Point L1,Satellite,94,14:00
+2024-10-22 16:00:00,Lagrange Point L2,Satellite,93,17:00
+2024-10-07 00:00:00,Orbit GEO,Asteroid Mining Ship,38,14:00
+2024-10-11 22:00:00,Orbit MEO,Manned Spacecraft,38,4:00
+2024-10-01 11:00:00,Lagrange Point L1,Space Station,20,15:00
+2024-10-16 20:00:00,Orbit MEO,Manned Spacecraft,26,12:00
+2024-10-05 16:00:00,Lagrange Point L2,Manned Spacecraft,90,17:00
+2024-10-14 06:00:00,Mars Transfer Orbit,Satellite,32,22:00
+2024-10-01 18:00:00,Lagrange Point L1,Manned Spacecraft,47,9:00
+2024-10-04 10:00:00,Mars Transfer Orbit,Satellite,83,2:00
+2024-10-28 09:00:00,Orbit MEO,Asteroid Mining Ship,30,5:00
+2024-10-14 13:00:00,Lagrange Point L1,Manned Spacecraft,58,15:00
+2024-10-26 22:00:00,Orbit LEO,Satellite,50,20:00
+2024-10-16 17:00:00,Lagrange Point L1,Space Station,17,18:00
+2024-10-19 16:00:00,Orbit LEO,Scientific Probe,93,12:00
+2024-10-13 03:00:00,Orbit GEO,Space Debris,26,22:00
+2024-10-29 02:00:00,Lagrange Point L2,Space Station,98,3:00
+2024-10-14 04:00:00,Orbit LEO,Asteroid Mining Ship,1,0:00
+2024-10-30 13:00:00,Orbit LEO,Space Debris,54,18:00
+2024-10-08 17:00:00,Lagrange Point L2,Space Station,96,0:00
+2024-10-10 02:00:00,Lagrange Point L2,Space Debris,64,10:00
+2024-10-13 02:00:00,Orbit GEO,Space Debris,20,6:00
+2024-10-26 11:00:00,Lagrange Point L1,Asteroid Mining Ship,47,3:00
+2024-10-11 09:00:00,Lagrange Point L2,Asteroid Mining Ship,48,6:00
+2024-10-28 22:00:00,Orbit LEO,Space Station,52,16:00
+2024-10-03 06:00:00,Lagrange Point L1,Manned Spacecraft,51,14:00
+2024-10-06 13:00:00,Orbit GEO,Space Debris,22,21:00
+2024-10-18 04:00:00,Orbit LEO,Satellite,67,8:00
+2024-10-14 02:00:00,Lagrange Point L1,Scientific Probe,44,11:00
+2024-10-21 05:00:00,Orbit GEO,Asteroid Mining Ship,33,1:00
+2024-10-23 17:00:00,Orbit MEO,Space Station,83,11:00
+2024-10-19 02:00:00,Orbit GEO,Space Debris,27,18:00
+2024-10-19 11:00:00,Orbit LEO,Space Station,73,22:00
+2024-10-17 10:00:00,Lagrange Point L2,Manned Spacecraft,18,16:00
+2024-10-15 14:00:00,Orbit LEO,Satellite,20,21:00
+2024-10-16 03:00:00,Orbit GEO,Scientific Probe,29,4:00
+2024-10-11 06:00:00,Mars Transfer Orbit,Asteroid Mining Ship,25,5:00
+2024-10-27 14:00:00,Orbit GEO,Scientific Probe,39,9:00
+2024-10-14 19:00:00,Orbit MEO,Scientific Probe,61,22:00
+2024-10-30 01:00:00,Lagrange Point L2,Manned Spacecraft,84,16:00
+2024-10-10 09:00:00,Orbit LEO,Manned Spacecraft,58,13:00
+2024-10-06 22:00:00,Orbit MEO,Manned Spacecraft,77,20:00
+2024-10-08 11:00:00,Lagrange Point L1,Space Debris,96,14:00
+2024-10-09 12:00:00,Lagrange Point L2,Manned Spacecraft,60,5:00
+2024-10-01 06:00:00,Lagrange Point L1,Satellite,36,12:00
+2024-10-06 04:00:00,Lagrange Point L1,Scientific Probe,93,13:00
+2024-10-21 21:00:00,Lagrange Point L1,Asteroid Mining Ship,67,14:00
+2024-10-27 18:00:00,Mars Transfer Orbit,Manned Spacecraft,20,23:00
+2024-10-06 15:00:00,Orbit MEO,Space Station,33,6:00
+2024-10-25 20:00:00,Lagrange Point L1,Asteroid Mining Ship,95,6:00
+2024-10-16 02:00:00,Lagrange Point L2,Space Station,63,10:00
+2024-10-05 06:00:00,Lagrange Point L2,Asteroid Mining Ship,82,13:00
+2024-10-28 11:00:00,Lagrange Point L1,Asteroid Mining Ship,17,13:00
+2024-10-03 23:00:00,Orbit GEO,Scientific Probe,97,6:00
+2024-10-07 01:00:00,Lagrange Point L1,Space Station,14,8:00
+2024-10-28 16:00:00,Orbit LEO,Space Station,61,17:00
+2024-10-30 16:00:00,Lagrange Point L1,Space Debris,51,0:00
+2024-10-29 04:00:00,Orbit MEO,Space Station,19,1:00
+2024-10-18 06:00:00,Orbit MEO,Space Debris,52,22:00
+2024-10-11 06:00:00,Orbit MEO,Asteroid Mining Ship,7,2:00
+2024-10-30 16:00:00,Orbit MEO,Satellite,43,22:00
+2024-10-16 22:00:00,Orbit LEO,Space Debris,28,13:00
+2024-10-25 17:00:00,Orbit GEO,Space Station,27,18:00
+2024-10-15 11:00:00,Orbit LEO,Scientific Probe,57,20:00
+2024-10-29 03:00:00,Orbit LEO,Asteroid Mining Ship,78,13:00
+2024-10-10 04:00:00,Mars Transfer Orbit,Scientific Probe,64,10:00
+2024-10-14 14:00:00,Orbit MEO,Space Debris,35,22:00
+2024-10-10 17:00:00,Orbit LEO,Space Station,30,9:00
+2024-10-19 10:00:00,Orbit GEO,Asteroid Mining Ship,19,7:00
+2024-10-10 18:00:00,Orbit LEO,Satellite,15,8:00
+2024-10-03 21:00:00,Orbit MEO,Asteroid Mining Ship,65,6:00
+2024-10-03 20:00:00,Orbit GEO,Manned Spacecraft,25,22:00
+2024-10-25 04:00:00,Orbit MEO,Space Debris,44,21:00
+2024-10-13 15:00:00,Orbit MEO,Satellite,43,12:00
+2024-10-14 12:00:00,Lagrange Point L2,Space Debris,52,13:00
+2024-10-25 23:00:00,Orbit MEO,Scientific Probe,38,12:00
+2024-10-24 08:00:00,Mars Transfer Orbit,Manned Spacecraft,3,1:00
+2024-10-23 08:00:00,Orbit GEO,Manned Spacecraft,46,2:00
+2024-10-25 11:00:00,Orbit LEO,Asteroid Mining Ship,59,10:00
+2024-10-12 19:00:00,Orbit GEO,Scientific Probe,60,22:00
+2024-10-27 22:00:00,Orbit GEO,Satellite,15,2:00
+2024-10-25 18:00:00,Lagrange Point L1,Manned Spacecraft,17,12:00
+2024-10-30 03:00:00,Orbit MEO,Space Debris,49,11:00
+2024-10-29 01:00:00,Mars Transfer Orbit,Space Station,14,7:00
+2024-10-15 06:00:00,Orbit GEO,Manned Spacecraft,3,7:00
+2024-10-16 18:00:00,Orbit LEO,Space Station,97,18:00
+2024-10-04 21:00:00,Lagrange Point L1,Asteroid Mining Ship,25,3:00
+2024-10-02 03:00:00,Orbit MEO,Manned Spacecraft,18,5:00
+2024-10-17 21:00:00,Orbit LEO,Manned Spacecraft,29,16:00
+2024-10-12 08:00:00,Orbit LEO,Scientific Probe,49,14:00
+2024-10-23 07:00:00,Mars Transfer Orbit,Space Debris,68,23:00
+2024-10-30 15:00:00,Orbit MEO,Asteroid Mining Ship,98,16:00
+2024-10-26 08:00:00,Orbit LEO,Manned Spacecraft,43,5:00
+2024-10-01 02:00:00,Mars Transfer Orbit,Space Station,66,8:00
+2024-10-05 18:00:00,Mars Transfer Orbit,Space Debris,67,16:00
+2024-10-22 11:00:00,Lagrange Point L1,Space Debris,35,11:00
+2024-10-14 09:00:00,Orbit MEO,Space Debris,33,0:00
+2024-10-07 01:00:00,Orbit GEO,Asteroid Mining Ship,69,19:00
+2024-10-13 14:00:00,Orbit GEO,Scientific Probe,12,8:00
+2024-10-23 18:00:00,Orbit LEO,Manned Spacecraft,95,10:00
+2024-10-27 00:00:00,Lagrange Point L1,Space Debris,37,2:00
+2024-10-30 12:00:00,Mars Transfer Orbit,Scientific Probe,49,7:00
+2024-10-15 16:00:00,Lagrange Point L1,Satellite,19,6:00
+2024-10-17 05:00:00,Orbit LEO,Space Station,10,1:00
+2024-10-14 23:00:00,Lagrange Point L1,Satellite,4,6:00
+2024-10-03 18:00:00,Lagrange Point L2,Scientific Probe,91,10:00
+2024-10-27 19:00:00,Lagrange Point L2,Manned Spacecraft,20,16:00
+2024-10-30 02:00:00,Orbit GEO,Asteroid Mining Ship,84,16:00
+2024-10-19 17:00:00,Lagrange Point L1,Asteroid Mining Ship,2,11:00
+2024-10-18 06:00:00,Orbit GEO,Space Debris,37,5:00
+2024-10-16 09:00:00,Lagrange Point L2,Asteroid Mining Ship,6,23:00
+2024-10-29 16:00:00,Orbit MEO,Space Station,8,3:00
+2024-10-09 02:00:00,Orbit MEO,Satellite,91,14:00
+2024-10-27 15:00:00,Orbit LEO,Asteroid Mining Ship,19,10:00
+2024-10-24 09:00:00,Lagrange Point L1,Satellite,91,16:00
+2024-10-07 15:00:00,Orbit LEO,Satellite,79,17:00
+2024-10-29 11:00:00,Orbit LEO,Space Station,16,13:00
+2024-10-23 05:00:00,Orbit MEO,Satellite,84,10:00
+2024-10-26 12:00:00,Orbit MEO,Manned Spacecraft,89,5:00
+2024-10-03 22:00:00,Mars Transfer Orbit,Asteroid Mining Ship,11,16:00
+2024-10-07 20:00:00,Lagrange Point L2,Manned Spacecraft,31,9:00
+2024-10-25 08:00:00,Lagrange Point L2,Scientific Probe,64,17:00
+2024-10-25 10:00:00,Lagrange Point L2,Space Station,15,16:00
+2024-10-10 10:00:00,Lagrange Point L2,Manned Spacecraft,33,17:00
+2024-10-29 07:00:00,Mars Transfer Orbit,Manned Spacecraft,91,1:00
+2024-10-09 08:00:00,Orbit LEO,Manned Spacecraft,58,4:00
+2024-10-30 23:00:00,Orbit LEO,Scientific Probe,61,0:00
+2024-10-23 13:00:00,Orbit LEO,Asteroid Mining Ship,21,8:00
+2024-10-16 17:00:00,Lagrange Point L1,Space Station,37,16:00
+2024-10-20 22:00:00,Orbit LEO,Manned Spacecraft,24,17:00
+2024-10-09 05:00:00,Orbit LEO,Scientific Probe,4,1:00
+2024-10-21 06:00:00,Orbit GEO,Asteroid Mining Ship,98,11:00
+2024-10-14 09:00:00,Lagrange Point L1,Space Debris,34,2:00
+2024-10-08 03:00:00,Lagrange Point L1,Satellite,98,8:00
+2024-10-01 01:00:00,Orbit LEO,Asteroid Mining Ship,2,3:00
+2024-10-15 06:00:00,Orbit GEO,Space Station,89,21:00
+2024-10-01 16:00:00,Orbit MEO,Satellite,85,5:00
+2024-10-10 07:00:00,Orbit MEO,Satellite,83,2:00
+2024-10-28 17:00:00,Mars Transfer Orbit,Asteroid Mining Ship,63,0:00
+2024-10-16 20:00:00,Lagrange Point L2,Space Debris,57,8:00
+2024-10-09 23:00:00,Lagrange Point L2,Space Debris,35,16:00
+2024-10-14 19:00:00,Orbit LEO,Manned Spacecraft,64,8:00
+2024-10-05 07:00:00,Lagrange Point L1,Space Debris,84,18:00
+2024-10-11 18:00:00,Orbit LEO,Asteroid Mining Ship,86,0:00
+2024-10-25 05:00:00,Mars Transfer Orbit,Asteroid Mining Ship,66,4:00
+2024-10-14 01:00:00,Orbit MEO,Asteroid Mining Ship,73,9:00
+2024-10-20 18:00:00,Lagrange Point L1,Manned Spacecraft,21,17:00
+2024-10-26 04:00:00,Lagrange Point L2,Manned Spacecraft,15,13:00
+2024-10-02 19:00:00,Orbit LEO,Manned Spacecraft,99,6:00
+2024-10-24 23:00:00,Orbit GEO,Asteroid Mining Ship,20,13:00
+2024-10-06 22:00:00,Orbit LEO,Asteroid Mining Ship,44,8:00
+2024-10-08 15:00:00,Lagrange Point L2,Space Station,75,3:00
+2024-10-17 10:00:00,Lagrange Point L2,Space Debris,54,5:00
+2024-10-23 10:00:00,Orbit LEO,Space Debris,49,9:00
+2024-10-04 08:00:00,Mars Transfer Orbit,Space Debris,48,4:00
+2024-10-07 15:00:00,Lagrange Point L1,Manned Spacecraft,1,23:00
+2024-10-11 21:00:00,Lagrange Point L1,Satellite,62,23:00
+2024-10-19 08:00:00,Orbit MEO,Asteroid Mining Ship,98,18:00
+2024-10-23 21:00:00,Orbit LEO,Asteroid Mining Ship,58,6:00
+2024-10-06 11:00:00,Orbit LEO,Scientific Probe,47,23:00
+2024-10-18 17:00:00,Orbit MEO,Space Station,17,0:00
+2024-10-04 14:00:00,Mars Transfer Orbit,Asteroid Mining Ship,65,21:00
+2024-10-15 11:00:00,Lagrange Point L2,Manned Spacecraft,70,13:00
+2024-10-09 14:00:00,Orbit GEO,Space Station,62,4:00
+2024-10-27 12:00:00,Mars Transfer Orbit,Space Debris,28,6:00
+2024-10-05 16:00:00,Lagrange Point L2,Asteroid Mining Ship,29,18:00
+2024-10-04 08:00:00,Mars Transfer Orbit,Space Station,85,19:00
+2024-10-30 05:00:00,Orbit GEO,Space Station,63,15:00
+2024-10-06 00:00:00,Orbit MEO,Space Debris,95,21:00
+2024-10-12 13:00:00,Orbit GEO,Satellite,35,2:00
+2024-10-26 02:00:00,Mars Transfer Orbit,Scientific Probe,27,0:00
+2024-10-25 07:00:00,Lagrange Point L2,Space Station,22,20:00
+2024-10-22 01:00:00,Orbit GEO,Manned Spacecraft,23,20:00
+2024-10-13 12:00:00,Orbit GEO,Space Debris,72,6:00
+2024-10-24 10:00:00,Mars Transfer Orbit,Manned Spacecraft,12,3:00
+2024-10-25 04:00:00,Orbit GEO,Scientific Probe,53,18:00
+2024-10-23 21:00:00,Orbit GEO,Scientific Probe,15,17:00
+2024-10-09 02:00:00,Lagrange Point L1,Asteroid Mining Ship,15,14:00
+2024-10-20 09:00:00,Orbit GEO,Manned Spacecraft,16,8:00
+2024-10-31 00:00:00,Mars Transfer Orbit,Satellite,58,1:00
+2024-10-22 22:00:00,Orbit LEO,Manned Spacecraft,26,8:00
+2024-10-14 09:00:00,Orbit MEO,Space Station,21,9:00
+2024-10-19 07:00:00,Orbit LEO,Scientific Probe,96,4:00
+2024-10-18 01:00:00,Orbit GEO,Satellite,77,4:00
+2024-10-04 10:00:00,Lagrange Point L2,Manned Spacecraft,31,1:00
+2024-10-12 22:00:00,Orbit GEO,Asteroid Mining Ship,51,23:00
+2024-10-06 07:00:00,Mars Transfer Orbit,Manned Spacecraft,12,3:00
+2024-10-19 12:00:00,Orbit MEO,Asteroid Mining Ship,19,12:00
+2024-10-07 11:00:00,Mars Transfer Orbit,Scientific Probe,29,23:00
+2024-10-06 18:00:00,Mars Transfer Orbit,Manned Spacecraft,5,1:00
+2024-10-12 09:00:00,Mars Transfer Orbit,Space Debris,87,16:00
+2024-10-15 07:00:00,Lagrange Point L2,Scientific Probe,44,20:00
+2024-10-13 03:00:00,Mars Transfer Orbit,Manned Spacecraft,38,9:00
+2024-10-08 06:00:00,Orbit GEO,Manned Spacecraft,32,2:00
+2024-10-29 03:00:00,Orbit LEO,Space Debris,1,3:00
+2024-10-07 00:00:00,Lagrange Point L2,Space Station,10,13:00
+2024-10-11 20:00:00,Lagrange Point L1,Manned Spacecraft,56,3:00
+2024-10-22 01:00:00,Orbit GEO,Manned Spacecraft,43,22:00
+2024-10-05 21:00:00,Lagrange Point L1,Asteroid Mining Ship,100,13:00
+2024-10-22 23:00:00,Orbit LEO,Satellite,30,21:00
+2024-10-16 06:00:00,Lagrange Point L1,Asteroid Mining Ship,60,18:00
+2024-10-04 12:00:00,Orbit GEO,Manned Spacecraft,97,9:00
+2024-10-08 02:00:00,Lagrange Point L1,Space Debris,2,18:00
+2024-10-23 11:00:00,Orbit MEO,Scientific Probe,40,16:00
+2024-10-18 23:00:00,Orbit MEO,Manned Spacecraft,74,23:00
+2024-10-30 13:00:00,Orbit GEO,Satellite,75,1:00
+2024-10-18 02:00:00,Lagrange Point L2,Asteroid Mining Ship,94,9:00
+2024-10-25 10:00:00,Lagrange Point L1,Space Debris,34,12:00
+2024-10-15 05:00:00,Orbit MEO,Space Station,42,10:00
+2024-10-28 17:00:00,Lagrange Point L2,Space Station,48,2:00
+2024-10-02 14:00:00,Orbit GEO,Asteroid Mining Ship,36,3:00
+2024-10-06 11:00:00,Lagrange Point L2,Manned Spacecraft,57,18:00
+2024-10-05 03:00:00,Orbit GEO,Space Debris,64,16:00
+2024-10-16 00:00:00,Orbit LEO,Satellite,34,19:00
+2024-10-11 05:00:00,Orbit GEO,Scientific Probe,70,1:00
+2024-10-18 14:00:00,Orbit LEO,Scientific Probe,30,18:00
+2024-10-05 03:00:00,Mars Transfer Orbit,Scientific Probe,48,12:00
+2024-10-03 02:00:00,Mars Transfer Orbit,Manned Spacecraft,43,17:00
+2024-10-17 06:00:00,Mars Transfer Orbit,Scientific Probe,34,21:00
+2024-10-11 10:00:00,Orbit GEO,Space Debris,19,4:00
+2024-10-12 06:00:00,Lagrange Point L2,Space Debris,9,13:00
+2024-10-05 10:00:00,Mars Transfer Orbit,Scientific Probe,15,11:00
+2024-10-08 20:00:00,Mars Transfer Orbit,Satellite,59,21:00
+2024-10-06 10:00:00,Mars Transfer Orbit,Asteroid Mining Ship,13,14:00
+2024-10-10 03:00:00,Lagrange Point L2,Satellite,91,10:00
+2024-10-03 01:00:00,Mars Transfer Orbit,Space Station,90,21:00
+2024-10-01 04:00:00,Orbit MEO,Asteroid Mining Ship,80,9:00
+2024-10-05 15:00:00,Lagrange Point L1,Manned Spacecraft,5,13:00
+2024-10-01 01:00:00,Lagrange Point L1,Satellite,53,2:00
+2024-10-16 22:00:00,Orbit GEO,Space Debris,88,16:00
+2024-10-04 11:00:00,Lagrange Point L1,Satellite,2,22:00
+2024-10-07 14:00:00,Lagrange Point L2,Manned Spacecraft,45,18:00
+2024-10-25 18:00:00,Lagrange Point L2,Space Station,26,2:00
+2024-10-10 17:00:00,Mars Transfer Orbit,Asteroid Mining Ship,52,23:00
+2024-10-11 19:00:00,Orbit LEO,Asteroid Mining Ship,57,9:00
+2024-10-06 00:00:00,Lagrange Point L1,Space Station,51,9:00
+2024-10-26 21:00:00,Lagrange Point L1,Asteroid Mining Ship,48,19:00
+2024-10-04 22:00:00,Mars Transfer Orbit,Satellite,51,12:00
+2024-10-13 12:00:00,Lagrange Point L2,Space Debris,85,21:00
+2024-10-01 10:00:00,Orbit MEO,Space Station,50,2:00
+2024-10-05 04:00:00,Lagrange Point L1,Space Station,75,7:00
+2024-10-15 07:00:00,Orbit GEO,Space Station,60,4:00
+2024-10-05 06:00:00,Lagrange Point L1,Satellite,87,23:00
+2024-10-23 05:00:00,Lagrange Point L1,Space Debris,61,5:00
+2024-10-01 19:00:00,Lagrange Point L1,Space Debris,22,8:00
+2024-10-02 04:00:00,Lagrange Point L1,Space Debris,57,2:00
+2024-10-28 03:00:00,Mars Transfer Orbit,Scientific Probe,76,19:00
+2024-10-23 01:00:00,Lagrange Point L1,Asteroid Mining Ship,42,15:00
+2024-10-14 04:00:00,Orbit LEO,Satellite,79,5:00
+2024-10-07 09:00:00,Orbit MEO,Satellite,24,1:00
+2024-10-19 04:00:00,Mars Transfer Orbit,Manned Spacecraft,60,15:00
+2024-10-07 06:00:00,Mars Transfer Orbit,Satellite,48,12:00
+2024-10-12 02:00:00,Lagrange Point L1,Space Station,57,21:00
+2024-10-20 13:00:00,Orbit MEO,Space Debris,1,4:00
+2024-10-29 21:00:00,Lagrange Point L1,Space Station,100,12:00
+2024-10-21 01:00:00,Mars Transfer Orbit,Manned Spacecraft,94,8:00
+2024-10-25 00:00:00,Orbit LEO,Space Debris,63,19:00
+2024-10-24 23:00:00,Orbit MEO,Manned Spacecraft,3,8:00
+2024-10-08 07:00:00,Mars Transfer Orbit,Asteroid Mining Ship,3,12:00
+2024-10-26 06:00:00,Orbit MEO,Space Station,22,16:00
+2024-10-17 16:00:00,Orbit MEO,Manned Spacecraft,38,18:00
+2024-10-30 07:00:00,Orbit LEO,Space Debris,32,1:00
+2024-10-28 23:00:00,Mars Transfer Orbit,Manned Spacecraft,8,0:00
+2024-10-05 00:00:00,Lagrange Point L2,Space Station,23,14:00
+2024-10-24 00:00:00,Mars Transfer Orbit,Satellite,71,13:00
+2024-10-23 18:00:00,Orbit LEO,Satellite,41,15:00
+2024-10-23 01:00:00,Orbit MEO,Asteroid Mining Ship,24,11:00
+2024-10-15 21:00:00,Orbit LEO,Scientific Probe,22,2:00
+2024-10-11 15:00:00,Lagrange Point L2,Space Debris,66,10:00
+2024-10-28 20:00:00,Orbit GEO,Satellite,97,18:00
+2024-10-27 00:00:00,Mars Transfer Orbit,Scientific Probe,9,13:00
+2024-10-03 13:00:00,Mars Transfer Orbit,Asteroid Mining Ship,32,8:00
+2024-10-28 06:00:00,Orbit GEO,Asteroid Mining Ship,87,6:00
+2024-10-30 21:00:00,Lagrange Point L2,Asteroid Mining Ship,67,1:00
+2024-10-30 11:00:00,Lagrange Point L1,Space Debris,45,19:00
+2024-10-09 04:00:00,Orbit GEO,Manned Spacecraft,41,8:00
+2024-10-16 01:00:00,Orbit LEO,Asteroid Mining Ship,82,8:00
+2024-10-15 21:00:00,Orbit LEO,Scientific Probe,7,0:00
+2024-10-20 21:00:00,Lagrange Point L2,Space Debris,77,22:00
+2024-10-29 07:00:00,Mars Transfer Orbit,Scientific Probe,94,21:00
+2024-10-07 09:00:00,Orbit GEO,Asteroid Mining Ship,69,10:00
+2024-10-02 09:00:00,Orbit LEO,Asteroid Mining Ship,64,15:00
+2024-10-28 22:00:00,Orbit GEO,Scientific Probe,50,17:00
+2024-10-20 21:00:00,Lagrange Point L1,Satellite,16,20:00
+2024-10-19 04:00:00,Orbit GEO,Scientific Probe,51,19:00
+2024-10-01 11:00:00,Mars Transfer Orbit,Satellite,34,6:00
+2024-10-11 22:00:00,Lagrange Point L1,Manned Spacecraft,57,12:00
+2024-10-09 16:00:00,Lagrange Point L2,Satellite,18,0:00
+2024-10-02 13:00:00,Orbit MEO,Satellite,60,23:00
+2024-10-10 13:00:00,Mars Transfer Orbit,Asteroid Mining Ship,59,15:00
+2024-10-21 00:00:00,Orbit MEO,Asteroid Mining Ship,89,2:00
+2024-10-17 00:00:00,Mars Transfer Orbit,Asteroid Mining Ship,39,13:00
+2024-10-21 19:00:00,Orbit GEO,Manned Spacecraft,96,18:00
+2024-10-28 14:00:00,Lagrange Point L2,Asteroid Mining Ship,5,20:00
+2024-10-23 20:00:00,Orbit MEO,Asteroid Mining Ship,53,11:00
+2024-10-21 03:00:00,Orbit MEO,Satellite,39,1:00
+2024-10-09 08:00:00,Lagrange Point L2,Space Station,27,21:00
+2024-10-06 12:00:00,Orbit GEO,Space Station,87,3:00
+2024-10-19 17:00:00,Orbit LEO,Space Debris,42,17:00
+2024-10-23 07:00:00,Orbit GEO,Asteroid Mining Ship,11,15:00
+2024-10-27 22:00:00,Lagrange Point L2,Asteroid Mining Ship,45,3:00
+2024-10-17 08:00:00,Lagrange Point L2,Asteroid Mining Ship,51,17:00
+2024-10-02 04:00:00,Lagrange Point L1,Asteroid Mining Ship,86,21:00
+2024-10-08 11:00:00,Orbit LEO,Scientific Probe,19,6:00
+2024-10-23 10:00:00,Orbit GEO,Asteroid Mining Ship,99,1:00
+2024-10-04 04:00:00,Mars Transfer Orbit,Manned Spacecraft,58,21:00
+2024-10-11 08:00:00,Lagrange Point L1,Asteroid Mining Ship,89,23:00
+2024-10-07 11:00:00,Orbit LEO,Manned Spacecraft,1,6:00
+2024-10-05 01:00:00,Orbit GEO,Satellite,81,14:00
+2024-10-21 03:00:00,Orbit MEO,Scientific Probe,40,20:00
+2024-10-06 17:00:00,Orbit LEO,Satellite,80,10:00
+2024-10-18 07:00:00,Orbit MEO,Satellite,57,11:00
+2024-10-25 19:00:00,Lagrange Point L1,Asteroid Mining Ship,60,7:00
+2024-10-24 05:00:00,Orbit MEO,Scientific Probe,41,13:00
+2024-10-04 14:00:00,Orbit MEO,Satellite,63,20:00
+2024-10-08 00:00:00,Lagrange Point L2,Scientific Probe,98,11:00
+2024-10-10 04:00:00,Orbit GEO,Asteroid Mining Ship,86,6:00
+2024-10-28 07:00:00,Orbit MEO,Space Station,99,1:00
+2024-10-05 03:00:00,Lagrange Point L1,Satellite,11,17:00
+2024-10-21 17:00:00,Mars Transfer Orbit,Scientific Probe,67,6:00
+2024-10-30 06:00:00,Lagrange Point L2,Scientific Probe,57,9:00
+2024-10-11 00:00:00,Lagrange Point L1,Asteroid Mining Ship,90,20:00
+2024-10-04 09:00:00,Lagrange Point L2,Satellite,99,15:00
+2024-10-16 06:00:00,Lagrange Point L1,Manned Spacecraft,75,8:00
+2024-10-21 09:00:00,Orbit LEO,Space Debris,61,3:00
+2024-10-28 04:00:00,Lagrange Point L2,Scientific Probe,75,16:00
+2024-10-02 03:00:00,Orbit GEO,Satellite,74,3:00
+2024-10-21 11:00:00,Lagrange Point L2,Space Station,25,18:00
+2024-10-15 03:00:00,Orbit MEO,Space Debris,86,14:00
+2024-10-24 13:00:00,Orbit LEO,Space Debris,53,0:00
+2024-10-18 10:00:00,Orbit LEO,Satellite,94,11:00
+2024-10-15 05:00:00,Lagrange Point L2,Scientific Probe,64,11:00
+2024-10-07 13:00:00,Orbit MEO,Space Station,16,8:00
+2024-10-19 08:00:00,Lagrange Point L1,Asteroid Mining Ship,83,18:00
+2024-10-26 07:00:00,Orbit MEO,Manned Spacecraft,61,20:00
+2024-10-27 15:00:00,Mars Transfer Orbit,Asteroid Mining Ship,32,22:00
+2024-10-19 23:00:00,Lagrange Point L2,Scientific Probe,22,4:00
+2024-10-15 05:00:00,Orbit MEO,Manned Spacecraft,13,15:00
+2024-10-18 11:00:00,Lagrange Point L1,Satellite,52,8:00
+2024-10-29 04:00:00,Orbit GEO,Space Station,9,20:00
+2024-10-10 19:00:00,Mars Transfer Orbit,Asteroid Mining Ship,72,19:00
+2024-10-12 23:00:00,Lagrange Point L2,Space Station,66,10:00
+2024-10-27 13:00:00,Lagrange Point L1,Manned Spacecraft,64,9:00
+2024-10-17 09:00:00,Orbit MEO,Space Debris,64,15:00
+2024-10-20 05:00:00,Orbit LEO,Space Debris,36,12:00
+2024-10-22 18:00:00,Lagrange Point L2,Space Debris,54,0:00
+2024-10-25 07:00:00,Orbit MEO,Space Station,45,15:00
+2024-10-18 07:00:00,Lagrange Point L2,Asteroid Mining Ship,26,20:00
+2024-10-07 15:00:00,Orbit LEO,Asteroid Mining Ship,67,23:00
+2024-10-11 16:00:00,Orbit LEO,Satellite,50,6:00
+2024-10-18 12:00:00,Lagrange Point L1,Space Debris,86,20:00
+2024-10-05 19:00:00,Orbit LEO,Space Station,60,5:00
+2024-10-26 06:00:00,Orbit MEO,Space Debris,49,17:00
+2024-10-16 16:00:00,Lagrange Point L1,Space Station,16,23:00
+2024-10-01 04:00:00,Orbit LEO,Space Station,36,21:00
+2024-10-08 08:00:00,Lagrange Point L1,Space Debris,74,1:00
+2024-10-16 03:00:00,Lagrange Point L2,Scientific Probe,6,2:00
+2024-10-28 17:00:00,Lagrange Point L2,Scientific Probe,66,6:00
+2024-10-28 16:00:00,Mars Transfer Orbit,Space Debris,7,1:00
+2024-10-04 11:00:00,Lagrange Point L2,Asteroid Mining Ship,45,12:00
+2024-10-14 21:00:00,Orbit MEO,Satellite,40,8:00
+2024-10-06 11:00:00,Lagrange Point L1,Manned Spacecraft,73,5:00
+2024-10-29 17:00:00,Mars Transfer Orbit,Scientific Probe,13,1:00
+2024-10-10 02:00:00,Lagrange Point L2,Space Station,62,0:00
+2024-10-14 14:00:00,Lagrange Point L2,Manned Spacecraft,65,16:00
+2024-10-04 10:00:00,Orbit GEO,Space Station,21,1:00
+2024-10-18 03:00:00,Mars Transfer Orbit,Space Station,60,3:00
+2024-10-20 01:00:00,Orbit LEO,Scientific Probe,50,0:00
+2024-10-09 03:00:00,Orbit GEO,Space Debris,60,0:00
+2024-10-30 19:00:00,Orbit GEO,Space Station,84,5:00
+2024-10-16 19:00:00,Orbit LEO,Space Debris,69,17:00
+2024-10-11 21:00:00,Orbit LEO,Space Debris,18,9:00
+2024-10-19 00:00:00,Orbit MEO,Satellite,36,0:00
+2024-10-17 04:00:00,Orbit MEO,Space Station,38,21:00
+2024-10-06 03:00:00,Lagrange Point L1,Space Debris,80,12:00
+2024-10-09 03:00:00,Orbit LEO,Space Station,1,14:00
+2024-10-19 08:00:00,Orbit GEO,Space Debris,84,15:00
+2024-10-05 10:00:00,Orbit MEO,Asteroid Mining Ship,72,14:00
+2024-10-20 22:00:00,Orbit MEO,Space Debris,85,15:00
+2024-10-19 11:00:00,Mars Transfer Orbit,Scientific Probe,77,15:00
+2024-10-21 09:00:00,Orbit LEO,Space Station,20,1:00
+2024-10-21 23:00:00,Orbit MEO,Space Station,48,3:00
+2024-10-11 18:00:00,Lagrange Point L2,Manned Spacecraft,20,14:00
+2024-10-06 02:00:00,Orbit LEO,Space Station,76,13:00
+2024-10-15 16:00:00,Mars Transfer Orbit,Scientific Probe,25,0:00
+2024-10-22 11:00:00,Mars Transfer Orbit,Space Debris,83,0:00
+2024-10-10 01:00:00,Lagrange Point L2,Asteroid Mining Ship,97,2:00
+2024-10-10 15:00:00,Mars Transfer Orbit,Manned Spacecraft,76,20:00
+2024-10-04 18:00:00,Mars Transfer Orbit,Asteroid Mining Ship,69,11:00
+2024-10-01 07:00:00,Lagrange Point L2,Asteroid Mining Ship,81,17:00
+2024-10-07 07:00:00,Orbit GEO,Space Station,44,13:00
+2024-10-14 03:00:00,Orbit LEO,Space Debris,3,22:00
+2024-10-10 12:00:00,Lagrange Point L2,Asteroid Mining Ship,34,9:00
+2024-10-16 03:00:00,Orbit GEO,Scientific Probe,40,20:00
+2024-10-05 11:00:00,Mars Transfer Orbit,Satellite,92,4:00
+2024-10-08 21:00:00,Orbit LEO,Scientific Probe,20,8:00
+2024-10-19 15:00:00,Lagrange Point L1,Scientific Probe,93,6:00
+2024-10-22 01:00:00,Orbit LEO,Scientific Probe,8,16:00
+2024-10-24 15:00:00,Orbit GEO,Satellite,49,7:00
+2024-10-14 21:00:00,Orbit MEO,Satellite,32,10:00
+2024-10-08 17:00:00,Lagrange Point L1,Space Station,38,21:00
+2024-10-14 09:00:00,Mars Transfer Orbit,Space Debris,76,16:00
+2024-10-09 17:00:00,Mars Transfer Orbit,Asteroid Mining Ship,12,17:00
+2024-10-11 04:00:00,Orbit LEO,Asteroid Mining Ship,43,6:00
+2024-10-19 11:00:00,Lagrange Point L2,Asteroid Mining Ship,77,20:00
+2024-10-20 19:00:00,Orbit LEO,Scientific Probe,86,19:00
+2024-10-11 11:00:00,Mars Transfer Orbit,Asteroid Mining Ship,38,11:00
+2024-10-07 20:00:00,Mars Transfer Orbit,Scientific Probe,86,0:00
+2024-10-26 06:00:00,Orbit LEO,Scientific Probe,87,16:00
+2024-10-14 02:00:00,Orbit GEO,Satellite,92,21:00
+2024-10-16 08:00:00,Mars Transfer Orbit,Manned Spacecraft,52,22:00
+2024-10-13 08:00:00,Mars Transfer Orbit,Space Debris,34,11:00
+2024-10-10 15:00:00,Mars Transfer Orbit,Asteroid Mining Ship,3,15:00
+2024-10-09 20:00:00,Orbit GEO,Scientific Probe,38,5:00
+2024-10-08 18:00:00,Lagrange Point L2,Space Station,72,11:00
+2024-10-20 17:00:00,Orbit LEO,Asteroid Mining Ship,60,15:00
+2024-10-01 21:00:00,Orbit LEO,Satellite,26,9:00
+2024-10-30 00:00:00,Lagrange Point L2,Manned Spacecraft,78,20:00
+2024-10-26 13:00:00,Lagrange Point L2,Asteroid Mining Ship,75,13:00
+2024-10-13 01:00:00,Mars Transfer Orbit,Manned Spacecraft,56,21:00
+2024-10-29 04:00:00,Orbit MEO,Manned Spacecraft,82,14:00
+2024-10-21 12:00:00,Lagrange Point L2,Manned Spacecraft,60,16:00
+2024-10-08 13:00:00,Orbit GEO,Manned Spacecraft,21,14:00
+2024-10-17 17:00:00,Mars Transfer Orbit,Space Debris,99,9:00
+2024-10-09 18:00:00,Orbit MEO,Space Debris,74,13:00
+2024-10-23 10:00:00,Mars Transfer Orbit,Space Debris,22,9:00
+2024-10-08 05:00:00,Mars Transfer Orbit,Manned Spacecraft,50,18:00
+2024-10-12 16:00:00,Orbit LEO,Manned Spacecraft,21,8:00
+2024-10-07 23:00:00,Mars Transfer Orbit,Scientific Probe,13,21:00
+2024-10-16 05:00:00,Orbit LEO,Satellite,16,15:00
+2024-10-06 02:00:00,Lagrange Point L2,Space Debris,59,21:00
+2024-10-19 11:00:00,Orbit GEO,Satellite,69,12:00
+2024-10-10 21:00:00,Orbit GEO,Manned Spacecraft,73,17:00
+2024-10-08 01:00:00,Lagrange Point L1,Space Debris,46,2:00
+2024-10-06 06:00:00,Orbit LEO,Manned Spacecraft,83,15:00
+2024-10-04 01:00:00,Orbit GEO,Satellite,11,14:00
+2024-10-10 18:00:00,Orbit MEO,Manned Spacecraft,56,15:00
+2024-10-24 23:00:00,Lagrange Point L2,Manned Spacecraft,74,11:00
+2024-10-13 14:00:00,Orbit GEO,Space Station,91,15:00
+2024-10-16 20:00:00,Lagrange Point L1,Manned Spacecraft,89,6:00
+2024-10-05 01:00:00,Lagrange Point L2,Space Debris,55,8:00
+2024-10-08 01:00:00,Orbit MEO,Space Debris,12,7:00
+2024-10-23 12:00:00,Orbit GEO,Manned Spacecraft,7,0:00
+2024-10-12 18:00:00,Orbit MEO,Space Station,11,11:00
+2024-10-29 03:00:00,Lagrange Point L1,Manned Spacecraft,96,12:00
+2024-10-10 01:00:00,Orbit MEO,Asteroid Mining Ship,41,20:00
+2024-10-12 11:00:00,Orbit MEO,Manned Spacecraft,27,5:00
+2024-10-23 23:00:00,Lagrange Point L1,Manned Spacecraft,43,21:00
+2024-10-02 13:00:00,Orbit GEO,Scientific Probe,46,20:00
+2024-10-19 11:00:00,Lagrange Point L1,Space Station,66,4:00
+2024-10-19 15:00:00,Orbit MEO,Satellite,84,21:00
+2024-10-09 04:00:00,Orbit MEO,Scientific Probe,75,19:00
+2024-10-24 08:00:00,Lagrange Point L1,Manned Spacecraft,16,7:00
+2024-10-13 00:00:00,Lagrange Point L1,Space Station,92,1:00
+2024-10-29 06:00:00,Mars Transfer Orbit,Space Station,33,1:00
+2024-10-26 10:00:00,Mars Transfer Orbit,Scientific Probe,44,14:00
+2024-10-28 14:00:00,Lagrange Point L1,Scientific Probe,28,20:00
+2024-10-11 20:00:00,Lagrange Point L2,Scientific Probe,32,7:00
+2024-10-08 01:00:00,Orbit MEO,Asteroid Mining Ship,59,11:00
+2024-10-10 13:00:00,Lagrange Point L2,Manned Spacecraft,45,12:00
+2024-10-12 18:00:00,Mars Transfer Orbit,Space Debris,53,4:00
+2024-10-18 00:00:00,Lagrange Point L1,Satellite,62,22:00
+2024-10-03 10:00:00,Lagrange Point L1,Satellite,55,10:00
+2024-10-01 07:00:00,Lagrange Point L1,Space Station,31,23:00
+2024-10-12 17:00:00,Orbit LEO,Satellite,57,22:00
+2024-10-14 07:00:00,Mars Transfer Orbit,Asteroid Mining Ship,60,2:00
+2024-10-20 23:00:00,Orbit LEO,Space Debris,38,7:00
+2024-10-05 14:00:00,Lagrange Point L1,Satellite,80,3:00
+2024-10-27 12:00:00,Orbit GEO,Asteroid Mining Ship,66,20:00
+2024-10-14 04:00:00,Lagrange Point L1,Space Station,58,18:00
+2024-10-28 01:00:00,Orbit GEO,Scientific Probe,33,6:00
+2024-10-22 05:00:00,Lagrange Point L1,Space Debris,73,18:00
+2024-10-22 04:00:00,Lagrange Point L2,Space Debris,21,14:00
+2024-10-11 13:00:00,Orbit MEO,Satellite,62,2:00
+2024-10-26 21:00:00,Orbit LEO,Satellite,61,18:00
+2024-10-30 21:00:00,Orbit LEO,Manned Spacecraft,90,21:00
+2024-10-17 04:00:00,Lagrange Point L2,Scientific Probe,26,13:00
+2024-10-28 00:00:00,Orbit LEO,Satellite,63,15:00
+2024-10-04 03:00:00,Orbit GEO,Space Debris,48,12:00
+2024-10-25 11:00:00,Lagrange Point L2,Satellite,46,18:00
+2024-10-08 12:00:00,Orbit MEO,Scientific Probe,26,9:00
+2024-10-13 01:00:00,Orbit GEO,Scientific Probe,34,22:00
+2024-10-13 19:00:00,Orbit GEO,Space Debris,28,0:00
+2024-10-09 06:00:00,Mars Transfer Orbit,Manned Spacecraft,25,9:00
+2024-10-21 08:00:00,Orbit LEO,Space Debris,79,4:00
+2024-10-26 23:00:00,Lagrange Point L2,Manned Spacecraft,26,22:00
+2024-10-15 10:00:00,Lagrange Point L2,Scientific Probe,24,9:00
+2024-10-04 16:00:00,Lagrange Point L1,Asteroid Mining Ship,69,15:00
+2024-10-26 04:00:00,Orbit GEO,Satellite,39,11:00
+2024-10-30 00:00:00,Mars Transfer Orbit,Space Debris,6,14:00
+2024-10-14 14:00:00,Lagrange Point L1,Space Debris,97,23:00
+2024-10-06 03:00:00,Lagrange Point L2,Manned Spacecraft,6,18:00
+2024-10-29 10:00:00,Orbit MEO,Satellite,55,22:00
+2024-10-26 08:00:00,Lagrange Point L2,Asteroid Mining Ship,89,9:00
+2024-10-08 08:00:00,Lagrange Point L2,Scientific Probe,40,3:00
+2024-10-29 18:00:00,Lagrange Point L2,Space Station,2,2:00
+2024-10-21 18:00:00,Lagrange Point L2,Scientific Probe,87,13:00
+2024-10-18 15:00:00,Orbit MEO,Satellite,19,2:00
+2024-10-14 04:00:00,Orbit GEO,Space Station,10,23:00
+2024-10-13 20:00:00,Lagrange Point L1,Manned Spacecraft,35,17:00
+2024-10-11 11:00:00,Orbit LEO,Satellite,35,4:00
+2024-10-22 11:00:00,Orbit GEO,Scientific Probe,74,12:00
+2024-10-06 03:00:00,Orbit GEO,Space Debris,80,16:00
+2024-10-29 20:00:00,Orbit LEO,Asteroid Mining Ship,39,4:00
+2024-10-16 19:00:00,Orbit GEO,Space Station,78,3:00
+2024-10-30 17:00:00,Orbit GEO,Manned Spacecraft,76,6:00
+2024-10-20 21:00:00,Orbit GEO,Manned Spacecraft,22,19:00
+2024-10-19 17:00:00,Orbit LEO,Asteroid Mining Ship,24,13:00
+2024-10-12 11:00:00,Lagrange Point L1,Asteroid Mining Ship,60,21:00
+2024-10-23 17:00:00,Orbit GEO,Space Debris,69,13:00
+2024-10-06 13:00:00,Lagrange Point L2,Space Debris,57,12:00
+2024-10-21 15:00:00,Lagrange Point L1,Space Station,56,7:00
+2024-10-01 22:00:00,Orbit GEO,Satellite,80,19:00
+2024-10-02 23:00:00,Orbit MEO,Asteroid Mining Ship,52,15:00
+2024-10-15 11:00:00,Orbit MEO,Space Station,51,19:00
+2024-10-10 16:00:00,Orbit LEO,Scientific Probe,69,5:00
+2024-10-07 23:00:00,Orbit LEO,Space Station,93,12:00
+2024-10-08 06:00:00,Lagrange Point L1,Manned Spacecraft,9,20:00
+2024-10-28 22:00:00,Lagrange Point L2,Scientific Probe,32,23:00
+2024-10-25 22:00:00,Lagrange Point L2,Asteroid Mining Ship,41,4:00
+2024-10-13 11:00:00,Mars Transfer Orbit,Space Debris,85,3:00
+2024-10-05 16:00:00,Orbit MEO,Manned Spacecraft,41,0:00
+2024-10-08 14:00:00,Orbit MEO,Manned Spacecraft,35,20:00
+2024-10-04 01:00:00,Lagrange Point L2,Satellite,95,12:00
+2024-10-01 19:00:00,Orbit MEO,Space Station,59,7:00
+2024-10-23 10:00:00,Orbit LEO,Manned Spacecraft,7,21:00
+2024-10-14 09:00:00,Lagrange Point L2,Asteroid Mining Ship,69,12:00
+2024-10-26 19:00:00,Lagrange Point L1,Asteroid Mining Ship,100,7:00
+2024-10-24 16:00:00,Orbit MEO,Scientific Probe,69,9:00
+2024-10-29 20:00:00,Orbit LEO,Space Station,43,10:00
+2024-10-09 04:00:00,Orbit MEO,Space Debris,17,5:00
+2024-10-05 17:00:00,Orbit GEO,Space Station,33,0:00
+2024-10-21 04:00:00,Orbit LEO,Manned Spacecraft,13,11:00
+2024-10-20 15:00:00,Lagrange Point L2,Satellite,45,2:00
+2024-10-11 11:00:00,Lagrange Point L1,Satellite,43,3:00
+2024-10-28 16:00:00,Orbit GEO,Manned Spacecraft,28,22:00
+2024-10-25 23:00:00,Orbit GEO,Manned Spacecraft,17,17:00
+2024-10-14 01:00:00,Orbit LEO,Space Station,52,14:00
+2024-10-13 16:00:00,Lagrange Point L2,Satellite,73,13:00
+2024-10-24 05:00:00,Lagrange Point L2,Manned Spacecraft,43,4:00
+2024-10-11 19:00:00,Orbit GEO,Space Debris,2,6:00
+2024-10-30 10:00:00,Lagrange Point L2,Space Debris,24,16:00
+2024-10-12 14:00:00,Orbit GEO,Manned Spacecraft,80,14:00
+2024-10-12 10:00:00,Orbit MEO,Manned Spacecraft,97,6:00
+2024-10-06 23:00:00,Lagrange Point L1,Asteroid Mining Ship,100,22:00
+2024-10-30 22:00:00,Orbit GEO,Space Station,32,6:00
+2024-10-09 12:00:00,Mars Transfer Orbit,Satellite,41,5:00
+2024-10-30 07:00:00,Orbit MEO,Asteroid Mining Ship,12,18:00
+2024-10-02 02:00:00,Orbit GEO,Manned Spacecraft,23,20:00
+2024-10-30 23:00:00,Mars Transfer Orbit,Manned Spacecraft,68,5:00
+2024-10-14 20:00:00,Orbit LEO,Space Debris,77,4:00
+2024-10-21 20:00:00,Orbit MEO,Satellite,76,15:00
+2024-10-24 04:00:00,Orbit MEO,Asteroid Mining Ship,34,1:00
+2024-10-12 13:00:00,Orbit MEO,Asteroid Mining Ship,35,10:00
+2024-10-08 11:00:00,Mars Transfer Orbit,Satellite,24,21:00
+2024-10-18 13:00:00,Orbit GEO,Space Debris,28,12:00
+2024-10-18 00:00:00,Mars Transfer Orbit,Manned Spacecraft,25,6:00
+2024-10-26 21:00:00,Orbit GEO,Satellite,61,4:00
+2024-10-16 17:00:00,Lagrange Point L1,Scientific Probe,52,22:00
+2024-10-25 03:00:00,Lagrange Point L1,Manned Spacecraft,28,10:00
+2024-10-24 08:00:00,Orbit LEO,Scientific Probe,73,15:00
+2024-10-31 00:00:00,Orbit LEO,Satellite,37,16:00
+2024-10-24 09:00:00,Mars Transfer Orbit,Space Debris,41,16:00
+2024-10-25 12:00:00,Orbit GEO,Asteroid Mining Ship,28,6:00
+2024-10-08 01:00:00,Lagrange Point L1,Space Station,39,8:00
+2024-10-27 08:00:00,Lagrange Point L2,Manned Spacecraft,16,18:00
+2024-10-29 12:00:00,Lagrange Point L1,Space Station,26,14:00
+2024-10-27 08:00:00,Lagrange Point L2,Space Debris,13,19:00
+2024-10-24 19:00:00,Orbit GEO,Satellite,35,23:00
+2024-10-22 19:00:00,Lagrange Point L1,Space Debris,22,6:00
+2024-10-25 04:00:00,Orbit GEO,Asteroid Mining Ship,59,12:00
+2024-10-17 12:00:00,Lagrange Point L2,Manned Spacecraft,16,23:00
+2024-10-06 07:00:00,Mars Transfer Orbit,Space Debris,71,3:00
+2024-10-06 16:00:00,Lagrange Point L1,Scientific Probe,29,13:00
+2024-10-08 14:00:00,Orbit MEO,Satellite,43,23:00
+2024-10-16 14:00:00,Orbit GEO,Satellite,5,11:00
+2024-10-22 07:00:00,Orbit GEO,Scientific Probe,98,5:00
+2024-10-27 17:00:00,Orbit MEO,Manned Spacecraft,39,8:00
+2024-10-15 22:00:00,Orbit GEO,Space Station,76,22:00
+2024-10-19 05:00:00,Mars Transfer Orbit,Space Debris,9,6:00
+2024-10-21 21:00:00,Lagrange Point L1,Manned Spacecraft,14,6:00
+2024-10-04 09:00:00,Orbit MEO,Satellite,60,18:00
+2024-10-23 03:00:00,Orbit GEO,Space Debris,16,5:00
+2024-10-12 23:00:00,Orbit MEO,Scientific Probe,7,8:00
+2024-10-26 12:00:00,Lagrange Point L1,Scientific Probe,87,23:00
+2024-10-03 23:00:00,Orbit MEO,Space Station,39,12:00
+2024-10-04 22:00:00,Orbit LEO,Space Debris,47,12:00
+2024-10-14 19:00:00,Lagrange Point L2,Space Debris,3,4:00
+2024-10-25 23:00:00,Mars Transfer Orbit,Scientific Probe,2,1:00
+2024-10-14 07:00:00,Lagrange Point L2,Space Debris,47,2:00
+2024-10-28 15:00:00,Mars Transfer Orbit,Space Debris,68,20:00
+2024-10-14 05:00:00,Lagrange Point L1,Asteroid Mining Ship,66,13:00
+2024-10-22 13:00:00,Orbit MEO,Scientific Probe,52,5:00
+2024-10-07 22:00:00,Mars Transfer Orbit,Asteroid Mining Ship,12,15:00
+2024-10-21 09:00:00,Lagrange Point L2,Space Station,11,11:00
+2024-10-02 22:00:00,Mars Transfer Orbit,Scientific Probe,10,19:00
+2024-10-06 02:00:00,Orbit LEO,Manned Spacecraft,45,4:00
+2024-10-14 05:00:00,Orbit MEO,Scientific Probe,45,7:00
+2024-10-14 23:00:00,Lagrange Point L2,Manned Spacecraft,69,22:00
+2024-10-16 23:00:00,Orbit MEO,Satellite,62,10:00
+2024-10-06 12:00:00,Lagrange Point L1,Space Debris,52,4:00
+2024-10-25 18:00:00,Orbit GEO,Space Debris,2,22:00
+2024-10-25 22:00:00,Lagrange Point L1,Asteroid Mining Ship,51,17:00
+2024-10-20 03:00:00,Orbit LEO,Satellite,1,18:00
+2024-10-18 14:00:00,Lagrange Point L2,Space Station,45,10:00
+2024-10-07 06:00:00,Lagrange Point L1,Space Debris,83,8:00
+2024-10-06 05:00:00,Mars Transfer Orbit,Space Station,93,15:00
+2024-10-15 04:00:00,Orbit GEO,Space Debris,86,6:00
+2024-10-25 07:00:00,Orbit LEO,Scientific Probe,21,5:00
+2024-10-25 12:00:00,Orbit MEO,Manned Spacecraft,75,20:00
+2024-10-27 01:00:00,Orbit MEO,Space Debris,21,19:00
+2024-10-16 23:00:00,Orbit GEO,Space Station,8,2:00
+2024-10-25 12:00:00,Mars Transfer Orbit,Space Station,10,17:00
+2024-10-21 00:00:00,Lagrange Point L1,Manned Spacecraft,92,3:00
+2024-10-20 23:00:00,Orbit LEO,Scientific Probe,62,10:00
+2024-10-28 11:00:00,Mars Transfer Orbit,Space Station,61,20:00
+2024-10-10 00:00:00,Lagrange Point L2,Manned Spacecraft,19,2:00
+2024-10-10 17:00:00,Orbit GEO,Space Debris,69,2:00
+2024-10-14 10:00:00,Orbit GEO,Space Debris,92,23:00
+2024-10-27 16:00:00,Orbit LEO,Asteroid Mining Ship,98,12:00
+2024-10-05 18:00:00,Lagrange Point L2,Space Station,72,5:00
+2024-10-01 02:00:00,Orbit LEO,Asteroid Mining Ship,28,14:00
+2024-10-16 22:00:00,Mars Transfer Orbit,Space Station,83,7:00
+2024-10-21 13:00:00,Orbit LEO,Scientific Probe,97,18:00
+2024-10-08 02:00:00,Orbit LEO,Space Debris,36,16:00
+2024-10-01 16:00:00,Orbit LEO,Scientific Probe,51,10:00
+2024-10-10 04:00:00,Orbit LEO,Scientific Probe,29,17:00
+2024-10-03 15:00:00,Orbit MEO,Space Debris,18,21:00
+2024-10-29 16:00:00,Orbit LEO,Manned Spacecraft,27,11:00
+2024-10-24 08:00:00,Orbit MEO,Manned Spacecraft,42,1:00
+2024-10-03 06:00:00,Lagrange Point L2,Satellite,29,13:00
+2024-10-01 19:00:00,Orbit MEO,Scientific Probe,78,17:00
+2024-10-19 00:00:00,Orbit MEO,Manned Spacecraft,6,16:00
+2024-10-15 16:00:00,Lagrange Point L2,Manned Spacecraft,57,12:00
+2024-10-01 16:00:00,Orbit LEO,Manned Spacecraft,60,20:00
+2024-10-06 06:00:00,Orbit MEO,Scientific Probe,6,9:00
+2024-10-22 14:00:00,Orbit MEO,Space Station,46,11:00
+2024-10-21 17:00:00,Lagrange Point L2,Manned Spacecraft,62,12:00
+2024-10-10 02:00:00,Mars Transfer Orbit,Asteroid Mining Ship,65,9:00
+2024-10-13 11:00:00,Orbit GEO,Asteroid Mining Ship,16,14:00
+2024-10-22 22:00:00,Lagrange Point L1,Scientific Probe,99,18:00
+2024-10-10 00:00:00,Orbit MEO,Space Station,26,12:00
+2024-10-09 13:00:00,Orbit LEO,Scientific Probe,37,15:00
+2024-10-02 19:00:00,Orbit LEO,Satellite,54,3:00
+2024-10-20 13:00:00,Mars Transfer Orbit,Scientific Probe,42,15:00
+2024-10-20 04:00:00,Orbit MEO,Satellite,66,9:00
+2024-10-16 19:00:00,Lagrange Point L2,Asteroid Mining Ship,35,7:00
+2024-10-30 04:00:00,Orbit MEO,Manned Spacecraft,94,2:00
+2024-10-26 02:00:00,Orbit MEO,Manned Spacecraft,92,15:00
+2024-10-28 09:00:00,Mars Transfer Orbit,Asteroid Mining Ship,20,13:00
+2024-10-05 12:00:00,Orbit MEO,Satellite,91,10:00
+2024-10-25 11:00:00,Orbit GEO,Space Station,36,0:00
+2024-10-03 18:00:00,Orbit LEO,Space Station,82,22:00
+2024-10-10 01:00:00,Mars Transfer Orbit,Space Debris,97,10:00
+2024-10-28 20:00:00,Lagrange Point L1,Scientific Probe,61,19:00
+2024-10-24 11:00:00,Orbit LEO,Scientific Probe,61,23:00
+2024-10-18 19:00:00,Mars Transfer Orbit,Space Debris,83,2:00
+2024-10-22 13:00:00,Mars Transfer Orbit,Space Station,44,12:00
+2024-10-24 20:00:00,Mars Transfer Orbit,Satellite,74,0:00
+2024-10-20 10:00:00,Mars Transfer Orbit,Manned Spacecraft,51,15:00
+2024-10-18 07:00:00,Lagrange Point L1,Scientific Probe,38,9:00
+2024-10-29 23:00:00,Lagrange Point L1,Scientific Probe,22,16:00
+2024-10-03 07:00:00,Lagrange Point L2,Manned Spacecraft,53,9:00
+2024-10-24 01:00:00,Orbit GEO,Scientific Probe,67,22:00
+2024-10-19 05:00:00,Mars Transfer Orbit,Manned Spacecraft,45,19:00
+2024-10-22 17:00:00,Lagrange Point L1,Space Debris,83,7:00
+2024-10-17 09:00:00,Orbit MEO,Space Debris,29,4:00
+2024-10-30 22:00:00,Orbit MEO,Satellite,33,8:00
+2024-10-29 21:00:00,Orbit GEO,Asteroid Mining Ship,97,2:00
+2024-10-07 07:00:00,Mars Transfer Orbit,Space Debris,27,8:00
+2024-10-03 22:00:00,Orbit MEO,Scientific Probe,35,15:00
+2024-10-11 18:00:00,Orbit LEO,Asteroid Mining Ship,18,21:00
+2024-10-17 17:00:00,Mars Transfer Orbit,Space Station,47,2:00
+2024-10-11 06:00:00,Lagrange Point L2,Manned Spacecraft,38,21:00
+2024-10-04 08:00:00,Mars Transfer Orbit,Space Station,16,14:00
+2024-10-08 01:00:00,Mars Transfer Orbit,Manned Spacecraft,11,11:00
+2024-10-24 00:00:00,Orbit GEO,Satellite,65,7:00
+2024-10-29 00:00:00,Orbit GEO,Scientific Probe,46,18:00
+2024-10-23 22:00:00,Lagrange Point L1,Manned Spacecraft,46,12:00
+2024-10-11 01:00:00,Lagrange Point L2,Manned Spacecraft,72,1:00
+2024-10-09 05:00:00,Lagrange Point L2,Space Debris,87,16:00
+2024-10-03 23:00:00,Lagrange Point L1,Scientific Probe,65,14:00
+2024-10-06 20:00:00,Lagrange Point L1,Manned Spacecraft,41,8:00
+2024-10-07 11:00:00,Orbit MEO,Manned Spacecraft,57,3:00
+2024-10-03 21:00:00,Lagrange Point L2,Scientific Probe,73,21:00
+2024-10-18 13:00:00,Orbit MEO,Asteroid Mining Ship,81,7:00
+2024-10-16 13:00:00,Lagrange Point L1,Manned Spacecraft,56,6:00
+2024-10-05 01:00:00,Orbit GEO,Space Station,85,13:00
+2024-10-10 00:00:00,Mars Transfer Orbit,Satellite,74,13:00
+2024-10-13 13:00:00,Lagrange Point L2,Manned Spacecraft,46,21:00
+2024-10-29 21:00:00,Mars Transfer Orbit,Asteroid Mining Ship,43,1:00
+2024-10-27 14:00:00,Mars Transfer Orbit,Scientific Probe,44,1:00
+2024-10-29 10:00:00,Lagrange Point L2,Satellite,69,15:00
+2024-10-26 04:00:00,Orbit LEO,Asteroid Mining Ship,38,5:00
+2024-10-10 22:00:00,Mars Transfer Orbit,Manned Spacecraft,41,17:00
+2024-10-23 19:00:00,Orbit GEO,Asteroid Mining Ship,30,3:00
+2024-10-03 12:00:00,Lagrange Point L1,Scientific Probe,31,14:00
+2024-10-10 11:00:00,Mars Transfer Orbit,Asteroid Mining Ship,7,10:00
+2024-10-26 07:00:00,Orbit LEO,Satellite,88,8:00
+2024-10-08 11:00:00,Lagrange Point L2,Space Station,26,6:00
+2024-10-29 07:00:00,Orbit LEO,Space Station,25,17:00
+2024-10-01 06:00:00,Mars Transfer Orbit,Manned Spacecraft,70,6:00
+2024-10-16 16:00:00,Lagrange Point L1,Asteroid Mining Ship,82,2:00
+2024-10-26 11:00:00,Mars Transfer Orbit,Asteroid Mining Ship,34,3:00
+2024-10-24 01:00:00,Orbit MEO,Space Debris,22,16:00
+2024-10-20 16:00:00,Orbit LEO,Asteroid Mining Ship,64,20:00
+2024-10-28 02:00:00,Lagrange Point L2,Satellite,40,21:00
+2024-10-28 02:00:00,Orbit GEO,Satellite,80,21:00
+2024-10-23 20:00:00,Orbit MEO,Satellite,33,8:00
+2024-10-15 21:00:00,Orbit LEO,Scientific Probe,55,9:00
+2024-10-14 03:00:00,Lagrange Point L1,Satellite,77,4:00
+2024-10-25 10:00:00,Orbit GEO,Space Station,6,5:00
+2024-10-08 16:00:00,Lagrange Point L2,Space Station,22,21:00
+2024-10-05 14:00:00,Lagrange Point L2,Scientific Probe,56,3:00
+2024-10-30 02:00:00,Mars Transfer Orbit,Scientific Probe,85,8:00
+2024-10-05 10:00:00,Lagrange Point L1,Space Station,64,20:00
+2024-10-01 22:00:00,Orbit GEO,Satellite,88,4:00
+2024-10-13 00:00:00,Lagrange Point L2,Satellite,57,10:00
+2024-10-02 11:00:00,Lagrange Point L1,Scientific Probe,2,14:00
+2024-10-07 10:00:00,Orbit LEO,Scientific Probe,69,7:00
+2024-10-01 10:00:00,Orbit LEO,Asteroid Mining Ship,24,5:00
+2024-10-08 12:00:00,Mars Transfer Orbit,Scientific Probe,2,4:00
+2024-10-18 19:00:00,Lagrange Point L2,Space Debris,44,3:00
+2024-10-23 00:00:00,Lagrange Point L2,Satellite,80,18:00
+2024-10-15 22:00:00,Orbit GEO,Satellite,57,4:00
+2024-10-13 11:00:00,Orbit GEO,Space Debris,77,11:00
+2024-10-13 20:00:00,Lagrange Point L1,Satellite,41,9:00
+2024-10-13 11:00:00,Orbit GEO,Manned Spacecraft,5,10:00
+2024-10-26 08:00:00,Orbit LEO,Asteroid Mining Ship,79,14:00
+2024-10-11 14:00:00,Mars Transfer Orbit,Space Station,64,21:00
+2024-10-02 23:00:00,Lagrange Point L1,Scientific Probe,97,14:00
+2024-10-04 06:00:00,Orbit GEO,Space Station,89,14:00
+2024-10-17 05:00:00,Mars Transfer Orbit,Space Debris,99,7:00
+2024-10-01 00:00:00,Lagrange Point L1,Scientific Probe,2,21:00
+2024-10-27 04:00:00,Orbit MEO,Scientific Probe,2,18:00
+2024-10-16 02:00:00,Lagrange Point L1,Space Station,84,16:00
+2024-10-10 16:00:00,Orbit GEO,Scientific Probe,76,10:00
+2024-10-09 01:00:00,Orbit LEO,Asteroid Mining Ship,78,15:00
+2024-10-22 01:00:00,Orbit MEO,Space Station,57,17:00
+2024-10-23 22:00:00,Orbit GEO,Asteroid Mining Ship,10,6:00
+2024-10-17 10:00:00,Orbit MEO,Manned Spacecraft,91,14:00
+2024-10-07 14:00:00,Lagrange Point L2,Asteroid Mining Ship,34,19:00
+2024-10-08 02:00:00,Lagrange Point L1,Satellite,85,11:00
+2024-10-02 04:00:00,Orbit LEO,Asteroid Mining Ship,65,22:00
+2024-10-01 05:00:00,Orbit MEO,Space Debris,8,10:00
+2024-10-16 18:00:00,Orbit GEO,Asteroid Mining Ship,87,5:00
+2024-10-02 20:00:00,Mars Transfer Orbit,Asteroid Mining Ship,23,17:00
+2024-10-19 22:00:00,Orbit GEO,Scientific Probe,44,14:00
+2024-10-06 08:00:00,Orbit GEO,Scientific Probe,86,11:00
+2024-10-11 23:00:00,Orbit MEO,Asteroid Mining Ship,35,7:00
+2024-10-05 12:00:00,Orbit LEO,Scientific Probe,29,11:00
+2024-10-08 06:00:00,Orbit LEO,Manned Spacecraft,49,6:00
+2024-10-04 18:00:00,Mars Transfer Orbit,Space Debris,35,3:00
+2024-10-04 08:00:00,Orbit LEO,Space Debris,74,19:00
+2024-10-01 21:00:00,Lagrange Point L2,Asteroid Mining Ship,19,18:00
+2024-10-06 14:00:00,Orbit GEO,Manned Spacecraft,50,16:00
+2024-10-22 20:00:00,Orbit LEO,Manned Spacecraft,84,2:00
+2024-10-05 17:00:00,Orbit LEO,Asteroid Mining Ship,16,4:00
+2024-10-06 12:00:00,Orbit LEO,Manned Spacecraft,7,1:00
+2024-10-13 08:00:00,Orbit MEO,Scientific Probe,93,7:00
+2024-10-15 23:00:00,Orbit GEO,Scientific Probe,24,3:00
+2024-10-24 11:00:00,Mars Transfer Orbit,Asteroid Mining Ship,53,9:00
+2024-10-18 09:00:00,Lagrange Point L2,Manned Spacecraft,23,17:00
+2024-10-07 22:00:00,Orbit LEO,Scientific Probe,12,12:00
+2024-10-17 01:00:00,Orbit GEO,Space Debris,34,10:00
+2024-10-07 01:00:00,Orbit GEO,Scientific Probe,22,20:00
+2024-10-16 14:00:00,Orbit GEO,Scientific Probe,46,22:00
+2024-10-16 02:00:00,Orbit MEO,Space Debris,60,12:00
+2024-10-06 04:00:00,Lagrange Point L1,Space Debris,38,16:00
+2024-10-28 16:00:00,Orbit LEO,Satellite,7,8:00
+2024-10-09 16:00:00,Lagrange Point L1,Satellite,51,2:00
+2024-10-25 17:00:00,Orbit MEO,Space Station,77,5:00
+2024-10-16 12:00:00,Orbit MEO,Manned Spacecraft,1,12:00
+2024-10-07 03:00:00,Orbit MEO,Satellite,16,1:00
+2024-10-13 08:00:00,Lagrange Point L2,Manned Spacecraft,33,21:00
+2024-10-22 00:00:00,Orbit LEO,Asteroid Mining Ship,12,0:00
+2024-10-22 01:00:00,Lagrange Point L2,Scientific Probe,81,19:00
+2024-10-05 19:00:00,Lagrange Point L2,Satellite,3,16:00
+2024-10-20 11:00:00,Orbit LEO,Satellite,76,8:00
+2024-10-15 14:00:00,Lagrange Point L2,Scientific Probe,1,15:00
+2024-10-25 11:00:00,Mars Transfer Orbit,Satellite,58,15:00
+2024-10-14 00:00:00,Orbit GEO,Space Debris,47,13:00
+2024-10-06 06:00:00,Lagrange Point L2,Satellite,68,11:00
+2024-10-18 16:00:00,Orbit LEO,Space Debris,50,10:00
+2024-10-21 03:00:00,Orbit MEO,Space Debris,29,22:00
+2024-10-03 16:00:00,Orbit MEO,Space Station,28,16:00
+2024-10-19 10:00:00,Lagrange Point L1,Manned Spacecraft,73,13:00
+2024-10-28 14:00:00,Lagrange Point L1,Space Debris,44,2:00
+2024-10-02 18:00:00,Mars Transfer Orbit,Space Station,75,12:00
+2024-10-28 22:00:00,Orbit MEO,Space Debris,5,17:00
+2024-10-20 16:00:00,Mars Transfer Orbit,Manned Spacecraft,96,3:00
+2024-10-26 23:00:00,Lagrange Point L2,Manned Spacecraft,37,7:00
+2024-10-23 10:00:00,Lagrange Point L1,Manned Spacecraft,25,5:00
+2024-10-23 16:00:00,Lagrange Point L1,Space Station,2,0:00
+2024-10-08 23:00:00,Mars Transfer Orbit,Space Station,30,9:00
+2024-10-21 21:00:00,Lagrange Point L2,Satellite,25,20:00
+2024-10-25 22:00:00,Orbit GEO,Manned Spacecraft,80,4:00
+2024-10-12 21:00:00,Orbit GEO,Asteroid Mining Ship,37,9:00
+2024-10-06 20:00:00,Mars Transfer Orbit,Satellite,59,1:00
+2024-10-21 15:00:00,Lagrange Point L2,Asteroid Mining Ship,68,14:00
+2024-10-06 13:00:00,Lagrange Point L2,Manned Spacecraft,59,17:00
+2024-10-28 13:00:00,Orbit MEO,Asteroid Mining Ship,83,2:00
+2024-10-13 01:00:00,Lagrange Point L1,Asteroid Mining Ship,71,17:00
+2024-10-06 21:00:00,Orbit MEO,Space Debris,43,11:00
+2024-10-03 06:00:00,Lagrange Point L2,Manned Spacecraft,14,0:00
+2024-10-06 12:00:00,Lagrange Point L2,Space Debris,33,11:00
